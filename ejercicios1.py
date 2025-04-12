@@ -72,7 +72,8 @@ elif imc>18.5 and imc<24.9:
     print("Está en un peso saludable")
 elif imc>25 and imc<29.9:
     print("Está en sobrepeso")
-
+else: 
+    print("TIENE SOBREPESO")
         
 
 
